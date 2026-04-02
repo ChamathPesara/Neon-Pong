@@ -88,12 +88,6 @@ That's it. Seriously.
 
 ---
 
-## 👾 Built By
-
-**Chamath Perera** — crafted with obsession, caffeine, and a deep respect for the classics.
-
----
-
 ## ⭐ If You Liked It
 
 - Star the repo — it costs nothing and means everything
